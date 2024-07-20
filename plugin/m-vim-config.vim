@@ -12,7 +12,7 @@ filetype off
 syntax on
 colorscheme default
 
-set nonumber
+set number
 " set relativenumber
 
 set backspace=indent,eol,start
